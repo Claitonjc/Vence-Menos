@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "c22c",
+      "email": "contaExemplo@email.com",
+      "senha": "123456",
+      "configuracoes": {
+        "avisoProdutosSemTroca": "10",
+        "periodoDeRecolhimento": "3"
+      },
+      "lojas": [
+        {
+          "id": "3ad6c83c-8d38-4eb3-a38a-5ecd6151ad9d",
+          "nome": "Loja 01",
+          "departamentos": [
+            {
+              "id": "332a1662-2d2f-4040-bfa4-0bf8a24a0da1",
+              "nome": "Depart. Exemplo 01",
+              "produtos": [
+                {
+                  "id": "850c3323-59e3-427b-80db-3ca3b37c7127",
+                  "descricao": "Produto Exemplo 01",
+                  "codigo": "7891025123233",
+                  "validade": "2024-11-11",
+                  "comTroca": false,
+                  "semTroca": true
+                },
+                {
+                  "id": "bfb4022a-12fa-413b-b46f-88b7724c1bc4",
+                  "descricao": "Produto Exemplo 02",
+                  "codigo": "7891025123235",
+                  "validade": "2024-11-18",
+                  "comTroca": false,
+                  "semTroca": true
+                }
+              ]
+            },
+            {
+              "id": "13d15f52-c1e9-40f7-bef7-78203747fa96",
+              "nome": "Depart. Exemplo 02"
+            }
+          ]
+        },
+        {
+          "id": "558d1993-efcd-452e-886b-b828d66cecac",
+          "nome": "Loja 02"
+        }
+      ]
+    }
+  ]
+}
