@@ -1,6 +1,6 @@
 # Vence Menos
 
-Vence menos é uma aplicação web que teve o design feito no figma para um trabalho de faculdade, mas que não tinha sido codificada. Então esse projeto foi criado do zero, feito com React, e a estilização com Styled components. Atualmente o app funciona normalmente, porém conta com alguns poucos Bugs ainda que irei resolver nos próximos Commits.
+Vence menos é uma aplicação web de gestão de datas de validades. Conta com algumas funcionalidades, como lembrete de validades próximas, e agendamento de um período para recolhimento dos produtos. Teve o design feito no figma para um trabalho de faculdade, mas que não tinha sido codificada. Então esse projeto foi criado do zero, feito com React, e a estilização com Styled components. Atualmente o app funciona normalmente, porém conta com alguns poucos Bugs ainda que irei resolver nos próximos Commits.
 
 # Getting Started with Create React App
 
